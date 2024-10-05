@@ -1,1 +1,1 @@
-# add-to-cart-
+The "Add to Cart" feature on a website is a crucial element for any e-commerce platform, as it allows users to select and reserve products for future purchase.
